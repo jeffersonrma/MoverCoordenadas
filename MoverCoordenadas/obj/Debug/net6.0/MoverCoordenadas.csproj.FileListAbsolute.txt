@@ -1,0 +1,15 @@
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\bin\Debug\net6.0\MoverCoordenadas.exe
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\bin\Debug\net6.0\MoverCoordenadas.deps.json
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\bin\Debug\net6.0\MoverCoordenadas.runtimeconfig.json
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\bin\Debug\net6.0\MoverCoordenadas.dll
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\bin\Debug\net6.0\ref\MoverCoordenadas.dll
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\bin\Debug\net6.0\MoverCoordenadas.pdb
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.csproj.AssemblyReference.cache
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.GeneratedMSBuildEditorConfig.editorconfig
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.AssemblyInfoInputs.cache
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.AssemblyInfo.cs
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.csproj.CoreCompileInputs.cache
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.dll
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\ref\MoverCoordenadas.dll
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.pdb
+F:\cd\Projetos\MoverCoordenadas\MoverCoordenadas\obj\Debug\net6.0\MoverCoordenadas.genruntimeconfig.cache
